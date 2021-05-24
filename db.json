@@ -1,0 +1,39 @@
+{
+  "blogs": [
+    {
+      "title": "Opening ",
+      "body": " as a junior developer what you need in your tool belt especially after you have learnt html CSS JavaScript and React. These platforms handle the complexity of your backend for you so you are just writing frontend code or integrating or extending backend code. You aren't building a backend from scratch. If you are yet to learn a JavaScript framework, do so immediately preferably react and then move to WordPress. Most of the jobs on Upwork are WordPress or other platform jobs like Shopify and Magento. There's also jobs available strictly in these platforms and they combine all you have learnt before ",
+      "author": "John",
+      "id": 1,
+      "image": "../img/sweet.jpg"
+    },
+    {
+      "title": "Querying the synopsis",
+      "body": "How could you go on searching for a job with just HTML, CSS and JavaScript. You have to know at least one JavaScript framework preferably react as it has the most jobs out there these days. Version control is a must especially when working in a team. Branching your changes, merging them, pushing them, pulling other people's changes. That's why you put your projects on GitHub when developing and start using git from day one so you know the commands. You mostly need git pull and got push. The rest can be googled on the job.\n\nAs for learning laravel before learning WordPress, laravel has a very steep learning curve to it and there's always new features added like everyday. You might be learjing something in laravel today and when coming to practice you might find out what you lesrnt is a bit outdated.\n\nAs a junior developer, platforms is what you need in your tool belt especially after you have learnt html, CSS, JavaScript and React. These platforms handle the complexity of your backend for you so you are just writing frontend code or integrating or extending backend code. You aren't building a backend from scratch. If you are yet to learn a JavaScript framework, do so immediately preferably react and then move to WordPress. Most of the jobs on Upwork are WordPress or other platform jobs like Shopify and Magento. There's also jobs available strictly in these platforms and they combine all you have learnt before.",
+      "author": "mario",
+      "id": 2,
+      "image": "../img/sweet.jpg"
+    },
+    {
+      "title": " Cattybox Project",
+      "body": "You know Javascript, your next destination should be ReactJs and that's because it has jobs, a lot of jobs!\n\n\nDon't think of doing Laravel before WordPress, because you won't get to WordPress and Laravel will get you hooked.\n\nSomeone once said Laravel documentation is about 700 pages. It has a major change every year. Besides, if you learn Laravel before WordPress you'd hate WordPress.\n\nSo follow the money, learn React and WordPress.\n\nForget about not meeting up with a job's requirement, just apply anyway. Worst that could happen is you won't get the job. I also believe rejection is a major job hunting experience. grin",
+      "author": "mario",
+      "id": 3,
+      "image": "localhost:5000/srcz/img/sweet.jpg"
+    },
+    {
+      "title": "Opening ",
+      "body": " as a junior developer what you need in your tool belt especially after you have learnt html CSS JavaScript and React. These platforms handle the complexity of your backend for you so you are just writing frontend code or integrating or extending backend code. You aren't building a backend from scratch. If you are yet to learn a JavaScript framework, do so immediately preferably react and then move to WordPress. Most of the jobs on Upwork are WordPress or other platform jobs like Shopify and Magento. There's also jobs available strictly in these platforms and they combine all you have learnt before ",
+      "author": "John",
+      "id": 1,
+      "image": "../img/sweet.jpg"
+    },
+    {
+      "title": " Cattybox Project",
+      "body": "You know Javascript, your next destination should be ReactJs and that's because it has jobs, a lot of jobs!\n\n\nDon't think of doing Laravel before WordPress, because you won't get to WordPress and Laravel will get you hooked.\n\nSomeone once said Laravel documentation is about 700 pages. It has a major change every year. Besides, if you learn Laravel before WordPress you'd hate WordPress.\n\nSo follow the money, learn React and WordPress.\n\nForget about not meeting up with a job's requirement, just apply anyway. Worst that could happen is you won't get the job. I also believe rejection is a major job hunting experience. grin",
+      "author": "mario",
+      "id": 3,
+      "image": "localhost:5000/srcz/img/sweet.jpg"
+    }
+  ]
+}
